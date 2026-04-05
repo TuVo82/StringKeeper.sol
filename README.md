@@ -14,3 +14,4 @@ contract StringKeeper {
         message = _newMessage;
     }
 }
+Clean up unused code
