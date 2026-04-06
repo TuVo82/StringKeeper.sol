@@ -15,3 +15,4 @@ contract StringKeeper {
     }
 }
 Clean up unused code
+Improve readability
