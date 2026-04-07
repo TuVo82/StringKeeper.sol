@@ -16,3 +16,4 @@ contract StringKeeper {
 }
 Clean up unused code
 Improve readability
+Add require for safety
