@@ -19,3 +19,4 @@ Improve readability
 Add require for safety
 Optimize function calls
 Add simple test case
+Fix revert condition
